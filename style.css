@@ -1002,3 +1002,8 @@ ul.no-bullets {
     background: #210404;
     color: #FFFFFF !important;
 }
+
+.no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
